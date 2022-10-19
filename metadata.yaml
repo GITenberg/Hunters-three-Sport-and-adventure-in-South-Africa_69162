@@ -1,0 +1,36 @@
+_repo: Hunters-three-Sport-and-adventure-in-South-Africa_69162
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Carey, William M.
+    gutenberg_agent_id: '55137'
+    url: http://www.gutenberg.org/2009/agents/55137
+creator:
+  author:
+    agent_name: Knox, Thomas Wallace
+    aliases:
+    - Knox, Thomas W.
+    - Knox, Thos. W.
+    birthdate: 1835
+    deathdate: 1896
+    gutenberg_agent_id: '5229'
+    url: http://www.gutenberg.org/2009/agents/5229
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_W._Knox
+description: ''
+gutenberg_issued: '2022-10-15'
+identifiers:
+  gutenberg: '69162'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924016411906
+pgterms:marc905: 20221011091700knox
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: 'United States: E. P. Dutton and Company,1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Hunters three: Sport and adventure in South Africa'
+url: http://www.gutenberg.org/ebooks/69162
