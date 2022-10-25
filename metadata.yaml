@@ -5,6 +5,9 @@ contributor:
     agent_name: Carey, William M.
     gutenberg_agent_id: '55137'
     url: http://www.gutenberg.org/2009/agents/55137
+covers:
+- cover_type: archival
+  image_path: 69162-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Knox, Thomas Wallace
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5229
     wikipedia: https://en.wikipedia.org/wiki/Thomas_W._Knox
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69162#Hunters-three-Sport-and-adventure-in-South-Africa
 gutenberg_issued: '2022-10-15'
 identifiers:
   gutenberg: '69162'
